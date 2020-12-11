@@ -1,0 +1,64 @@
+{
+  "nodes": [
+    {
+      "color": "red",
+      "radius": 10
+    },
+    {
+      "color": "lightblue",
+      "radius": 5
+    },
+    {
+      "color": "orange",
+      "radius": 10
+    },
+    {
+      "color": "lightblue",
+      "radius": 20
+    },
+	"color": "red",
+      "radius": 10
+    },
+    {
+      "color": "lightblue",
+      "radius": 5
+    },
+	
+  ],
+  "links": [
+
+    {
+      "source": 0,
+      "target": 1
+    },
+
+    {
+      "source": 1,
+      "target": 5
+    },
+	{
+      "source": 0,
+      "target": 3
+    },
+	{
+      "source": 0,
+      "target": 4
+    },
+	{
+      "source": 3,
+      "target": 2
+    },
+	{
+      "source": 1,
+      "target": 4
+    },
+	{
+      "source": 0,
+      "target": 1
+    },
+    {
+      "source": 2,
+      "target": 3
+      }
+  ]
+}
